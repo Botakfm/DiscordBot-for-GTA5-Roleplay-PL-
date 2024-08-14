@@ -1,0 +1,40 @@
+{
+    "clientID": "",
+    "guildID": "",
+    "token": "",//bot token
+    "ChannelID": "",//awans.js
+    "ChannelID2": "",//degrad.js
+    "ChannelID3": "",//minus.js and plus.js
+    "ChannelID4": "",//dane.js
+    "ChannelID5": "",//urlop.js
+    "ChannelID6": "",//zwolnij.js
+    "LogsChannelID": "",//logs channel
+    "RoleToAdd": "",//role for zwolnij.js
+    "Permisje": ["", ""],//for normal users roles
+    "UprawnioneRole": [ //for administration roles
+        "", 
+        "",
+        "",
+        "",
+        ""
+    ],
+    "RoleToRemove": [ //for zwolnij.js roles
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+
+
+}
